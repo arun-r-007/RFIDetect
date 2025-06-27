@@ -84,7 +84,7 @@ PERIOD_TIMINGS = [
 
 
 
-# use in real im plementation for minutes
+# use in real implementation for minutes
 
 
 
