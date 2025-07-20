@@ -1,4 +1,4 @@
-# 🎯 Smart Attendance System Using RFID & Facial Recognition
+# 🤖 RFIDetect - Smart Attendance System Using RFID & Facial Recognition
 
 Welcome to the **Smart Attendance System** — a hybrid solution that blends **RFID technology** 🪪 and **Facial Recognition** 🧠 to securely and efficiently mark attendance. Built using **Arduino Uno**, **RFID Module**, **LCD**, and a **Laptop Camera**, it ensures a tech-savvy way to manage attendance! 💡
 
