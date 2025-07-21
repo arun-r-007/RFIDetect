@@ -115,7 +115,7 @@ Welcome to the **Smart Attendance System** — a hybrid solution that blends **R
 Start scanning ➕ smiling 😁!
 
 
-
+<img width="2048" height="1536" alt="Image" src="https://github.com/user-attachments/assets/c1b604a9-1d28-4b13-b716-4ec3ea3a1669" />
 
 
 # 📌 Read every Comment Lines clearly and  carefully 
