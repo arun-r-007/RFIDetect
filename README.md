@@ -91,9 +91,9 @@ Install the following tools and libraries:
 
 ---
 
-## Demo Screenshot
+## Setup Screenshot
 
-![Demo Image](https://github.com/user-attachments/assets/c1b604a9-1d28-4b13-b716-4ec3ea3a1669)
+![Setup Image](https://github.com/user-attachments/assets/c1b604a9-1d28-4b13-b716-4ec3ea3a1669)
 
 ---
 
