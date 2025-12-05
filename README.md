@@ -3,7 +3,7 @@
 **RFIDetect** is a hybrid smart attendance system that integrates **RFID technology** and **Facial Recognition** for secure, contactless, and automated attendance marking. Developed using **Arduino Uno**, **RFID RC522 Module**, **JHD 162A LCD**, and a **laptop camera**, the system ensures accurate user identification with real-time feedback and local database logging.
 
 
-[![Watch video](previewImage.png)](https://github.com/user-attachments/assets/a4ee8d58-2967-4283-b14b-757d56b352f1)
+[![Watch video](previewImage.png)](https://github.com/user-attachments/assets/6ea1f70c-6807-4134-aab0-37ef39ae07da)
 
 ---
 
